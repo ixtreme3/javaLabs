@@ -1,0 +1,24 @@
+апр. 06, 2020 6:26:25 PM com.company.Main main
+INFO: Чтение из файла: file.txt
+апр. 06, 2020 6:26:25 PM com.company.Main main
+INFO: Обработка команды: DEFINE a 10
+апр. 06, 2020 6:26:25 PM com.company.Main main
+INFO: Обработка команды: PUSH a
+апр. 06, 2020 6:26:25 PM com.company.Main main
+INFO: Обработка команды: PRINT
+апр. 06, 2020 6:26:25 PM com.company.Main main
+INFO: Обработка команды: PUSH 20
+апр. 06, 2020 6:26:25 PM com.company.Main main
+INFO: Обработка команды: +
+апр. 06, 2020 6:26:25 PM com.company.BinaryCommand execute
+INFO: Взяли элемент из стека: 20.0
+апр. 06, 2020 6:26:25 PM com.company.BinaryCommand execute
+INFO: Взяли элемент из стека: 10.0
+апр. 06, 2020 6:26:25 PM com.company.BinaryCommand execute
+INFO: Результат: 30.0
+апр. 06, 2020 6:26:25 PM com.company.Main main
+INFO: Обработка команды: SQRT
+апр. 06, 2020 6:26:25 PM com.company.Main main
+INFO: Обработка команды: PRINT
+апр. 06, 2020 6:26:25 PM com.company.Main main
+INFO: Конец обработки команд
